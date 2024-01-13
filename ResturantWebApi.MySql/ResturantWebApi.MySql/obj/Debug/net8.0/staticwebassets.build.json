@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "70l/oX8ITNNrtwhY1cNoK7/t0nrLYcCwU+u+hKoFOFY=",
+  "Source": "RestaurantsWebApi.MySql",
+  "BasePath": "_content/RestaurantsWebApi.MySql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

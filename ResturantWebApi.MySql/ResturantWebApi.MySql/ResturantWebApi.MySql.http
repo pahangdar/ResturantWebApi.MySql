@@ -1,0 +1,6 @@
+@ResturantWebApi.MySql_HostAddress = http://localhost:5199
+
+GET {{ResturantWebApi.MySql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
